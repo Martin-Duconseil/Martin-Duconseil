@@ -1,16 +1,63 @@
-### Hi there 👋
+# Martin Duconseil
 
-<!--
-**Martin-Duconseil/Martin-Duconseil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/72789013?v=4" alt="Profile Picture" width="100" height="100">
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, I'm Martin! I'm 22 years old and currently working as a Traffic Manager at Eliette (Sud Ouest) based in Bordeaux 🍷
+
+## 🔧 Technologies & Tools
+
+- 💻 **Programming Languages:**
+  - JavaScript
+  - Python
+  - Java
+  - Ruby
+
+- 🛠️ **Web Technologies:**
+  - HTML5
+  - CSS3
+  - React.js
+
+ - 🧰 **Frameworks:**
+    - Ruby on Rails
+
+- 🗄️ **Databases:**
+  - MySQL
+  - PostgreSQL
+
+- 🚀 **Version Control:**
+  - Git
+  - GitHub
+
+- 📦 **Package Managers:**
+  - npm (Node Package Manager)
+  - yarn
+ 
+- 📊 **Analytics and Monitoring:**
+  - Google Analytics
+
+- 🧩 **Other Tools:**
+  - VSCode (Visual Studio Code)
+  - Discord
+
+## 🌱 I'm Currently Learning
+
+I'm passionate about continuous learning, and currently, I'm exploring:
+
+- 📚 Data Visualization
+- 📚 Data Analysis
+- 📚 Automation
+
+## 📫 Get in Touch
+
+- [Linkedin](https://www.linkedin.com/in/martin-duconseil/)
+- [Portfolio](https://martinduconseil.fr/)
+
+## 📊 GitHub Stats
+
+![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-duconseil&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🌐 My Projects
+
+- [ESD Python](https://github.com/Martin-Duconseil/esd-python): Some Python exercices made during my first Data Marketing Master Degree.
