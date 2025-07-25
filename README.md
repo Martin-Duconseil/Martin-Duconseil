@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hello, I'm Martin! I'm 23 years old and currently working as a Web & Data Analyst at DSI France Travail based in Pessac 🍷
+👋 Hello, I'm Martin! I'm 24 years old and currently working as a Web & Data Analyst at DSI France Travail based in Pessac 🍷
 
 ## 🔧 Technologies & Tools
 
