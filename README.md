@@ -11,6 +11,7 @@
 - 💻 **Programming Languages:**
   - JavaScript
   - Python
+  - GDScript
   - Java
   - Ruby
 
@@ -36,6 +37,8 @@
  
 - 📊 **Analytics and Monitoring:**
   - Google Analytics
+  - Piano Analytics
+  - Power BI
 
 - 🧩 **Other Tools:**
   - VSCode (Visual Studio Code)
@@ -45,6 +48,7 @@
 
 I'm passionate about continuous learning, and currently, I'm exploring:
 
+- 📚 Game Dev
 - 📚 Data Visualization
 - 📚 Data Analysis
 - 📚 Automation
@@ -60,4 +64,7 @@ I'm passionate about continuous learning, and currently, I'm exploring:
 
 ## 🌐 My Projects
 
+- Astroground: Currently working on a 2D Metroidvania in Godot 4.4!
+- [The Cat Game](https://github.com/Martin-Duconseil/the-cat-game): My first Python Game (Pygame).
+- [Gaming Insight](https://data.martinduconseil.fr/): GamingInsight is an interactive Streamlit dashboard that analyzes video game data from [IGDB API](https://www.igdb.com/).
 - [ESD Python](https://github.com/Martin-Duconseil/esd-python): Some Python exercices made during my first Data Marketing Master Degree.
